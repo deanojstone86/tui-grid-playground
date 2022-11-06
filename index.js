@@ -82,7 +82,7 @@ const grid = new Grid({
   data: data,
   pageOptions: {
     useClient: true,
-    perPage: 6,
+    perPage: 10,
   },
   columns: [
     {
