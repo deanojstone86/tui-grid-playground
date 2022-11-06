@@ -1,0 +1,10 @@
+{
+  "name": "js-szagyc",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "tui-code-snippet": "^2.3.1",
+    "tui-grid": "^4.10.0",
+    "tui-pagination": "^3.4.0"
+  }
+}
